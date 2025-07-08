@@ -25,9 +25,3 @@ The analysis uses `WellData.csv` containing:
   - `Pandas` (Data processing)
   - `NumPy` (Numerical operations)
 - File Format: CSV
-
-## Installation
-```bash
-git clone https://github.com/yourusername/Displaying-Lithology-Data.git
-cd Displaying-Lithology-Data
-pip install -r requirements.txt  # numpy pandas matplotlib
