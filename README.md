@@ -25,3 +25,10 @@ The analysis uses `WellData.csv` containing:
   - `Pandas` (Data processing)
   - `NumPy` (Numerical operations)
 - File Format: CSV
+
+## Data Visualisation 
+
+![download](https://github.com/user-attachments/assets/e215944c-e509-4685-8436-92885d29b2cc)
+
+
+  
